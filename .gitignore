@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Configuraciones del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de entorno
+.env
+
+# Archivos de caché de herramientas como pip
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+venv/Lib/site-packages/distutils-precedence.pth
